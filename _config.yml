@@ -6,7 +6,7 @@ description: I like playing games
 avatarTitle: xyshow
 # Description inside avatar
 avatarDesc: ML, Kubeflow, Kubernetes
-url: "PatrickXYS.githuo.io.git"
+url: "PatrickXYS.githuo.io"
 
 # Determine if github page generate TOC automatically
 enableToc: true
