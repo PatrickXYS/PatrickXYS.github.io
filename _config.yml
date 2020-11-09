@@ -15,7 +15,7 @@ enableToc: true
 social:
     github: PatrickXYS
     mail: chuckxiao1@gmail.com
-
+    slack: Kubeflow Workspace @Yao Xiao
 
 permalink: /:year/:month/:title/
 # Format
