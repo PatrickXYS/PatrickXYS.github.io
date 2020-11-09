@@ -5,7 +5,7 @@ title: About Me
 
 An engineer who plays around Machine Learning and Automation stuff, 
 
-I like playing and investigating games during my free time.
+Playing and investigating games during my free time.
 
 <h2> Career  </h2>
 
